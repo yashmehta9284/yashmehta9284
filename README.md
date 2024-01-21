@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmehta9284&label=Profile%20views&color=0e75b6&style=flat" alt="yashmehta9284" /> </p>
 
-- 🔭 I’m currently working in [TruBranders](https://www.trubranders.com/)
+- 🔭 I’m currently working in [TruBranders | Brand Creation Agency | Best Brand Naming Agency in India](https://www.trubranders.com/)
 
 - 🌱 I’m currently learning **A Lot Things including UI/UX**
 
